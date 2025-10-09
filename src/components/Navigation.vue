@@ -9,7 +9,7 @@
       >
         <iframe
           class="github"
-          src="https://ghbtns.com/github-btn.html?user=mengsixing&repo=front-end-navigation&type=star&count=true"
+          src="https://ghbtns.com/github-btn.html?user=hengliyin&repo=front-end-navigation&type=star&count=true"
           frameBorder="0"
           scrolling="0"
           width="102"

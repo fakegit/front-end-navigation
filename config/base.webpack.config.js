@@ -17,12 +17,7 @@ const config = {
         test: /\.vue$/,
         loader: 'vue-loader',
       },
-      {
-        enforce: 'pre',
-        test: /\.(js|vue)$/,
-        exclude: /node_modules/,
-        loader: 'eslint-loader',
-      },
+
       {
         test: /\.(png|jpg|gif)$/i,
         use: ['url-loader'],

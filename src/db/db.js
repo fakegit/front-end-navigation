@@ -295,7 +295,7 @@ export const blogList = {
     {
       name: '大漠',
       url: 'https://www.w3cplus.com/',
-    },{
+    }, {
       name: '小胡子哥',
       url: 'https://www.barretlee.com/entry/',
     },
